@@ -1,0 +1,2 @@
+D:\ChromeDownload\Hololens-ZwickTutorial\Zwick\ZwickTest\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\ChromeDownload\Hololens-ZwickTutorial\Zwick\ZwickTest\HoloApp\HoloApp.csproj;x86
